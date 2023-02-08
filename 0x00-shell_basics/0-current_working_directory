@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#script to print working directory pathname.
+pwd
