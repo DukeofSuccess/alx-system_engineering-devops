@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((`printf $PATH\n | grep -o ":/" | wc-l`+1))\n"
+printf "$((`printf $PATH\n | grep -o ":/" | wc-l`+ 1))\n"
